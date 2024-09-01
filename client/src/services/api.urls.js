@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8000'; // Change this to your actual backend URL
+const BASE_URL = 'https://gmailclone-2024.vercel.app/'; // Change this to your actual backend URL
 
 export const API_URLS = {
     saveSentEmails: {
